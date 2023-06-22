@@ -8,6 +8,7 @@ para que al final muestre un parrafo con todos los datos almacenados y los difer
 datos acerca de las especies 
 
 A continuacion capturas de la ejecución: 
+
 ![Image Text](https://github.com/Ruizerick26/Herencia_Felinos/blob/master/assets/captura1.jpg)
 ![Image Text](https://github.com/Ruizerick26/Herencia_Felinos/blob/master/assets/captura2.jpg)
 ![Image Text](https://github.com/Ruizerick26/Herencia_Felinos/blob/master/assets/captura3.jpg)
