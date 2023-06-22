@@ -13,3 +13,4 @@ A continuacion capturas de la ejecución:
 ![Image Text](https://github.com/Ruizerick26/Herencia_Felinos/blob/master/assets/captura2.jpg)
 ![Image Text](https://github.com/Ruizerick26/Herencia_Felinos/blob/master/assets/captura3.jpg)
 ![Image Text](https://github.com/Ruizerick26/Herencia_Felinos/blob/master/assets/captura4.jpg)
+![Image Text](https://github.com/Ruizerick26/Herencia_Felinos/blob/master/assets/UML.jpg)
